@@ -6,11 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My website
+title: JMB Furniture
 
 # Short description of your site
-description: A virtual proof that I'm awesome
-
+description: Chuyên bán hàng lừa đảo giá phải chăng
 # GitHub Actions
 repository: "VincentTam/beautiful-jekyll"
 
@@ -19,12 +18,12 @@ repository: "VincentTam/beautiful-jekyll"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # Your name to show in the footer
-author: Some Person
+author: Jenny Nguyễn
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Nhân viên đa cấp"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
