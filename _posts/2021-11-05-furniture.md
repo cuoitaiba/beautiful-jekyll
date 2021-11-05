@@ -6,6 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
+thumbnail-img: /assets/img/50f29b578b9043ce1a81.jpg
 ---
 
 
