@@ -12,7 +12,9 @@ thumbnail-img: /assets/img/50f29b578b9043ce1a81.jpg
 
 
 ![Crepe](/assets/img/947393a483634b3d1272.jpg)
-
+![Crepe](/assets/img/7ffb3e252ee2e6bcbff3.jpg)
+![Crepe](/assets/img/50f29b578b9043ce1a81.jpg)
+![Crepe](/assets/img/947393a483634b3d1272.jpg)
 It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
