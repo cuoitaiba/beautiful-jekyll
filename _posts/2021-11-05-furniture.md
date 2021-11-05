@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hàng đa cấp giá rẻ
-subtitle: Each post also has a subtitle
+subtitle: Mại dzô mại dzô
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
