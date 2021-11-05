@@ -14,9 +14,9 @@ author: Jenny Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Tôi rất mặp"
+  About Me: "..."
   Resources:
-    - Beautiful Jekyll: "Sản phẩm"
+    - Beautiful Jekyll: "Products"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
